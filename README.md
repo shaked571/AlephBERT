@@ -30,7 +30,7 @@ On four different benchmarks:
 
       title={AlephBERT: a Pre-trained Language Model to Start Off your Hebrew NLP Application}, 
       
-      author={Amit Seker, Elron Bandel, Dan Bareket, Idan Brusilovsky, Shaked Refael Greenfeld, Reut Tsarfaty},
+      author={Amit Seker, Elron Bandel, Dan Bareket, Idan Brusilovsky, Refael Shaked Greenfeld, Reut Tsarfaty},
       
       year={2021}
       
